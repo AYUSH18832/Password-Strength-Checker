@@ -37,7 +37,7 @@ This Python script evaluates the strength of a given password based on various p
 
 1. Clone or download the repository:
     ```bash
-    git clone https://github.com/yourusername/password-strength-checker.git
+    git clonehttps://github.com/AYUSH18832/Password-Strength-Checker.git
     cd password-strength-checker
     ```
 2. Install the required Python libraries (if not already installed):
@@ -46,7 +46,7 @@ This Python script evaluates the strength of a given password based on various p
     ```
 3. Run the script:
     ```bash
-    python password_checker.py
+    python main.py
     ```
 4. Enter the password you wish to evaluate when prompted.
 
